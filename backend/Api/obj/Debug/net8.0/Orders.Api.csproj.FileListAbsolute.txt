@@ -1,0 +1,14 @@
+/home/luism/projetos/workorders/backend/Api/Orders.Api/obj/Debug/net8.0/Orders.Api.csproj.AssemblyReference.cache
+/home/luism/projetos/workorders/backend/Api/Orders.Api/obj/Debug/net8.0/Orders.Api.GeneratedMSBuildEditorConfig.editorconfig
+/home/luism/projetos/workorders/backend/Api/Orders.Api/obj/Debug/net8.0/Orders.Api.AssemblyInfoInputs.cache
+/home/luism/projetos/workorders/backend/Api/Orders.Api/obj/Debug/net8.0/Orders.Api.AssemblyInfo.cs
+/home/luism/projetos/workorders/backend/Api/Orders.Api/obj/Debug/net8.0/Orders.Api.csproj.CoreCompileInputs.cache
+/home/luism/projetos/workorders/backend/Api/Orders.Api/obj/Debug/net8.0/Orders.Api.MvcApplicationPartsAssemblyInfo.cs
+/home/luism/projetos/workorders/backend/Api/Orders.Api/obj/Debug/net8.0/Orders.Api.MvcApplicationPartsAssemblyInfo.cache
+/home/luism/projetos/workorders/backend/Api/obj/Debug/net8.0/Orders.Api.csproj.AssemblyReference.cache
+/home/luism/projetos/workorders/backend/Api/obj/Debug/net8.0/Orders.Api.GeneratedMSBuildEditorConfig.editorconfig
+/home/luism/projetos/workorders/backend/Api/obj/Debug/net8.0/Orders.Api.AssemblyInfoInputs.cache
+/home/luism/projetos/workorders/backend/Api/obj/Debug/net8.0/Orders.Api.AssemblyInfo.cs
+/home/luism/projetos/workorders/backend/Api/obj/Debug/net8.0/Orders.Api.csproj.CoreCompileInputs.cache
+/home/luism/projetos/workorders/backend/Api/obj/Debug/net8.0/Orders.Api.MvcApplicationPartsAssemblyInfo.cs
+/home/luism/projetos/workorders/backend/Api/obj/Debug/net8.0/Orders.Api.MvcApplicationPartsAssemblyInfo.cache
